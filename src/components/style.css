@@ -1,0 +1,66 @@
+/* .loginPage{
+    background: url(https://media.istockphoto.com/vectors/abstract-blue-and-purple-soft-background-vector-id1173371762?k=6&m=1173371762&s=170667a&w=0&h=TBHrTACFUnnV88wssPW3ij4ei0VHL2UOkWa5v7Hq6VU=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%; */
+    /* background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-original-design-business-office-management-system-background-banner-image_346107.jpg"); */
+    
+/* }
+.loginForm{
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+} */
+/* Add padding to containers */
+.container {
+    padding: 16px;
+    background-color: rgb(255, 252, 252);
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #fdfafa;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for the submit button */
+  .registerbtn {
+    background-color: #747675;
+    color: rgb(8, 8, 8);
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity: 1;
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+  

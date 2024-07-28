@@ -1,0 +1,84 @@
+.dashbg {
+    min-height: 100vh;
+    width: 100%;
+    min-width: 1080px;
+    background: #eceff1;
+    /* overflow-x: hidden; */
+
+    background: linear-gradient(15deg, rgb(224, 224, 224) 0%, rgb(233, 237, 254) 100%);
+  }
+  
+  .card {
+    background: rgb(34, 148, 195);
+    background: linear-gradient(0deg, rgba(34, 148, 195, 1) 23%, rgba(45, 146, 253, 1) 89%);
+    color: white;
+  }
+  
+  .card2 {
+    background: rgb(158, 65, 172);
+    background: linear-gradient(0deg, rgb(130, 16, 156) 20%, rgb(171, 3, 232) 87%);
+    color: white;
+  }
+  
+  .icon {
+    margin-top: 35px;
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  
+  .stack {
+    margin-left: 20px;
+  }
+  
+  .ratio {
+    text-align: center;
+  }
+  
+  .project {
+    padding: 0px 9px 0px 5px;
+  }
+  
+  .span {
+    font-size: 15px;
+    color: white;
+  }
+  
+  .countspan {
+    font-size: 22px;
+    color: white;
+  }
+  
+  .pie {
+    margin-top: 20px;
+  }
+  
+  @media (max-width: 900px) {
+    .dashbg {
+      width: 100%;
+    }
+  }
+  
+
+
+
+
+
+
+
+
+/* card */
+/* background: rgb(65,172,165);
+background: linear-gradient(0deg, rgba(65,172,165,1) 23%, rgba(53,148,255,1) 89%); */
+/* background: rgb(65,172,165);
+background: linear-gradient(0deg, rgb(16, 156, 147) 20%, rgb(3, 144, 232) 87%); */
+/* background: rgb(65,172,165);
+background: linear-gradient(0deg, rgb(40, 157, 149) 20%, rgb(43, 135, 248) 87%); */
+/* background: rgb(65,172,165);
+background: radial-gradient(circle, rgba(65,172,165,1) 7%, rgba(56,144,255,1) 95%); */
+/* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(35,194,246,1) 0%, rgba(12,153,223,1) 42%); */
+
+
+/* card2 */
+ /* background: rgb(161, 65, 172);
+background: linear-gradient(0deg, rgb(152, 205, 197) 20%, rgb(3, 144, 232) 87%); */
